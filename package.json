@@ -1,0 +1,29 @@
+{
+  "name": "contacts",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.5",
+    "basic-auth": "^1.1.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-basic-auth": "^1.0.1",
+    "express-logger": "0.0.3",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "http-proxy": "^1.16.2",
+    "https": "^1.0.0",
+    "mongoose": "^4.9.5",
+    "seaport": "^2.0.9"
+  },
+  "apidoc": {
+    "name": "Agenda de contatos",
+    "title": "Documentação da API da agenda de contatos"
+  }
+}
